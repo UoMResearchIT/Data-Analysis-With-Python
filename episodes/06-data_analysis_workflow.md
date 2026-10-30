@@ -1,3 +1,9 @@
+<!--
+SPDX-FileCopyrightText: 2026 University of Manchester
+
+SPDX-License-Identifier: apache-2.0
+-->
+
 ---
 title: Data analysis workflows in Python
 teaching: 0
